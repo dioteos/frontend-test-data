@@ -6,7 +6,8 @@
       "quantity": 4,
       "category_id": "2da2a08dc115493a8eb450197bdb7b9a",
       "gallery_id": "899766c071c14b38adf942b0741bb58a",
-      "price": 79.66
+      "price": 79.66,
+      "description": ""
     },
     {
       "id": "719dcde8f2344e359d1b36b7bca99f0e",
@@ -14,7 +15,8 @@
       "quantity": 2,
       "category_id": "2da2a08dc115493a8eb450197bdb7b9a",
       "gallery_id": "a760f29efe874ec6b9e4ad5612c188f6",
-      "price": 107.56
+      "price": 107.56,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
     },
     {
       "id": "959af71fd3d542e6b30c321f5092f9e7",
@@ -22,7 +24,8 @@
       "quantity": 1,
       "category_id": "2da2a08dc115493a8eb450197bdb7b9a",
       "gallery_id": "b53bcfd35e844a588377f72fa3246692",
-      "price": 90.6
+      "price": 90.6,
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
       "id": "c78fe454f4794795a36f5553bc87fda4",
@@ -30,7 +33,8 @@
       "quantity": 2,
       "category_id": "b23b1cbdd96b4af786bef25adb36f29b",
       "gallery_id": "35e53673bff047579e65950cae58154f",
-      "price": 262.51
+      "price": 262.51,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. "
     },
     {
       "id": "e0e5fedc78004addb917f49e09f384d8",
@@ -38,7 +42,8 @@
       "quantity": 0,
       "category_id": "b23b1cbdd96b4af786bef25adb36f29b",
       "gallery_id": "a5ac84fe6bb44b9b9da9df04cb099256",
-      "price": 250
+      "price": 250,
+      "description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
     },
     {
       "id": "096e0eca33d544bbbdda6afffda386d0",
@@ -46,7 +51,8 @@
       "quantity": 14,
       "category_id": "fe26a9ea26aa45ecbe5cc6bb86f962c0",
       "gallery_id": "03c963488980434cbc1f9d9563b36564",
-      "price": 11.99
+      "price": 11.99,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
     },
     {
       "id": "0eb5339b89274f738f74b47d80d45b96",
@@ -54,7 +60,8 @@
       "quantity": 4,
       "category_id": "fe26a9ea26aa45ecbe5cc6bb86f962c0",
       "gallery_id": "da11ee0cdb4f4eabacd16770ff2806c7",
-      "price": 15.00
+      "price": 15.00,
+      "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
     }
   ]
 }
