@@ -2,6 +2,8 @@ Frontend test
 ===========
 You should create simple application with shopping basket functionality. All data needed to complete this goal is presented in the current repository.
 
+![Screenshot of the application layout](psd/shopping_backet.jpg)
+
 Project structure
 --------------------
 ```
