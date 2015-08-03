@@ -62,7 +62,7 @@ Task description
 -------------------
 This task is about creating simple single page application with shopping basket functionality which consists of few products from different categories.
 
-- All products, categories and galleries should be loaded from the proper json file
+- All products, categories and galleries should be loaded from the proper **remote** json file
 - By default products from all **categories** should be shown, if there is no category filter selected
 - If some of the top **category** filters selected - products from only corresponding category should be shown
 - There should be next **sorting** modes  - None, Sorting by price in ascending order, Sorting by price in descending mode
